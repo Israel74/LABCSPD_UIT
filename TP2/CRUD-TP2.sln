@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD-TP2", "CRUD-TP2\CRUD-TP2.csproj", "{683B6196-3F01-40A4-96B5-2533D7ED8810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{683B6196-3F01-40A4-96B5-2533D7ED8810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683B6196-3F01-40A4-96B5-2533D7ED8810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683B6196-3F01-40A4-96B5-2533D7ED8810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683B6196-3F01-40A4-96B5-2533D7ED8810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A3CC58-6BBA-42F7-9979-8A79859455C6}
+	EndGlobalSection
+EndGlobal

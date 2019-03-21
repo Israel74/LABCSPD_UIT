@@ -1,0 +1,12 @@
+C:\Users\israe\Source\Repos\CRUD-TP2\CRUD-TP2\bin\Debug\Funcionario.mdf
+C:\Users\israe\Source\Repos\CRUD-TP2\CRUD-TP2\bin\Debug\Funcionario_log.ldf
+C:\Users\israe\Source\Repos\CRUD-TP2\CRUD-TP2\bin\Debug\CRUD-TP2.exe.config
+C:\Users\israe\Source\Repos\CRUD-TP2\CRUD-TP2\bin\Debug\CRUD-TP2.exe
+C:\Users\israe\Source\Repos\CRUD-TP2\CRUD-TP2\bin\Debug\CRUD-TP2.pdb
+C:\Users\israe\Source\Repos\CRUD-TP2\CRUD-TP2\obj\Debug\CRUD-TP2.csprojAssemblyReference.cache
+C:\Users\israe\Source\Repos\CRUD-TP2\CRUD-TP2\obj\Debug\CRUD_TP2.CRUD.resources
+C:\Users\israe\Source\Repos\CRUD-TP2\CRUD-TP2\obj\Debug\CRUD_TP2.Properties.Resources.resources
+C:\Users\israe\Source\Repos\CRUD-TP2\CRUD-TP2\obj\Debug\CRUD-TP2.csproj.GenerateResource.cache
+C:\Users\israe\Source\Repos\CRUD-TP2\CRUD-TP2\obj\Debug\CRUD-TP2.csproj.CoreCompileInputs.cache
+C:\Users\israe\Source\Repos\CRUD-TP2\CRUD-TP2\obj\Debug\CRUD-TP2.exe
+C:\Users\israe\Source\Repos\CRUD-TP2\CRUD-TP2\obj\Debug\CRUD-TP2.pdb
